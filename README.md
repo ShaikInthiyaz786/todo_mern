@@ -1,23 +1,25 @@
-``MERN Todo Application
-This is a task management app built with the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to add, update, delete, and manage their tasks.
+# MERN Stack Todo Application
+This project is a full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to manage their tasks effectively by creating, reading, updating, and deleting todos. The application provides a simple and intuitive interface for users to manage their daily tasks.
 
-Features
-Add, edit, delete tasks
-Mark tasks as complete
-View all tasks
+##Features
+User Authentication: Users can register and log in to manage their todos.
+Create Todos: Add new tasks with a title and description.
+Edit Todos: Modify existing tasks.
+Delete Todos: Remove tasks that are no longer needed.
+Mark as Complete: Mark tasks as completed.
+Responsive Design: Optimized for both desktop and mobile devices.
+Real-time Updates: Reflects changes instantly across all connected clients.
 Tech Stack
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: MongoDB
-Installation & Usage
-Clone the repo: git clone https://github.com/ShaikInthiyaz786/todo_mern
-Install dependencies:
-Backend: cd backend && npm install
-Frontend: cd frontend && npm install
-Set up .env in the backend folder with your MongoDB connection string.
-Start the app:
-Backend: cd backend && npm start
-Frontend: cd frontend && npm start
-Open http://localhost:3000 in your browser.
-Contributing
-Feel free to fork, open issues, and submit pull requests. Contributions are welcome!
+##Frontend:
+
+React: A JavaScript library for building user interfaces.
+Axios: For making HTTP requests from the frontend to the backend.
+React Router: For managing navigation within the application.
+CSS: For styling the application.
+##Backend:
+
+Node.js: A JavaScript runtime for building the backend server.
+Express: A web application framework for Node.js.
+MongoDB: A NoSQL database for storing todo items.
+Mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js.
+JSON Web Tokens (JWT): For secure user authentication.
