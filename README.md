@@ -16,8 +16,8 @@ This is a simple Todo List application built with React.js. The application allo
 1. Clone the repository:
 
 bash
-git clone https://github.com/ShaikInthiyaz786/todo_mern.git
-cd todo-list-app
+git clone https://github.com/ShaikInthiyaz786/todo_mern
+cd todo_mern
 
 
 2. Install the dependencies:
