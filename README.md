@@ -10,7 +10,7 @@ Frontend: React.js
 Backend: Node.js, Express.js
 Database: MongoDB
 Installation & Usage
-Clone the repo: git clone https://github.com/yourusername/todo_mern.git
+Clone the repo: git clone https://github.com/ShaikInthiyaz786/todo_mern
 Install dependencies:
 Backend: cd backend && npm install
 Frontend: cd frontend && npm install
